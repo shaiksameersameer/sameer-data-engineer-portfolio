@@ -16,4 +16,4 @@ I enjoy solving complex data challenges, optimizing workflows, and continuously 
 
 📧 Email: [sameerkagitala@gmail.com](mailto:sameerkagitala@gmail.com)
 
-🌐 Portfolio: (Add your Vercel link after deployment)
+🌐 Portfolio: (sameer-data-engineer-portfolio.vercel.app)
